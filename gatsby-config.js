@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Gatsby-Firewatch-Parallax',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -14,8 +14,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Gatsby-Firewatch-Parallax',
+        short_name: 'G-FW-PLX',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

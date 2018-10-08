@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-firewatch-parallax",
+  "description": "Gatsby-Firewatch-Parallax",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Matthias Jordan <me@iammatthias.com>",
   "dependencies": {
     "babel-plugin-emotion": "^9.2.11",
     "emotion": "^9.2.12",
