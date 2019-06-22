@@ -20,8 +20,12 @@ const ParallaxLayer = styled.div`
   top: 0;
   right: 0;
   bottom: 0;
-  left: -25%;
-  width: 150%;
+  left: 0;
+  width: 100%;
+  @media only screen and (max-width: 2000px) {
+    left: -20%;
+    width: 150%;
+  }
   @media only screen and (max-width: 900px) {
     left: -50%;
     width: 200%;
